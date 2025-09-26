@@ -50,7 +50,6 @@ git clone https://github.com/usuario/fastfood-laravel.git
 Instala dependencias:
 ```bash
 composer install
-npm install
 ```
 
 Configura tu base de datos en el archivo `.env`
