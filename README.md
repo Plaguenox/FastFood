@@ -18,6 +18,8 @@ Este proyecto fue **adaptado y migrado desde un sistema original en PHP puro**, 
 ---
 
 ## 🧩 **Estructura del proyecto**
+
+```
 app/
 ├── Http/
 │   ├── Controllers/
@@ -36,42 +38,58 @@ database/
 
 public/images/                      → Imágenes precargadas
 storage/app/public/products/       → Imágenes subidas por el administrador
+```
 
 ## ⚙️ **Instalación y ejecución**
 
 Clona el repositorio:
+```bash
 git clone https://github.com/usuario/fastfood-laravel.git
+```
 
 Instala dependencias:
+```bash
 composer install
 npm install
+```
 
-Configura tu base de datos en el archivo .env
+Configura tu base de datos en el archivo `.env`
 
 Ejecuta migraciones y seeders:
+```bash
 php artisan migrate:fresh --seed
+```
 
 Crea el enlace simbólico para imágenes:
+```bash
 php artisan storage:link
+```
 
 Inicia el servidor local:
+```bash
 php artisan serve
+```
 
-Accede a la aplicación: http://localhost:8000
+Accede a la aplicación: [http://localhost:8000](http://localhost:8000)
 
-👥 Usuario demo
-Rol      Carnet		Contraseña
-Admin    A0001		admin123
+---
 
-🧠 Justificación técnica
-Este proyecto fue migrado desde una base en PHP puro para aplicar buenas prácticas modernas con Laravel. 
+## 👥 **Usuario demo**
+| Rol   | Carnet | Contraseña |
+|-------|--------|------------|
+| Admin | A0001  | admin123   |
+
+---
+
+## 🧠 **Justificación técnica**
+Este proyecto fue migrado desde una base en PHP puro para aplicar buenas prácticas modernas con Laravel.  
 Se eligió Laravel por su estructura MVC, facilidad de mantenimiento, y robustez en validaciones, seguridad y escalabilidad. Se utilizaron componentes como:
 
-Blade para vistas dinámicas
+- **Blade** para vistas dinámicas
+- **Eloquent** como ORM
+- **Bootstrap 5** para una interfaz limpia y responsiva
 
-Eloquent como ORM
+---
 
-Bootstrap 5 para una interfaz limpia y responsiva
-
-🧑‍💻 Créditos
-Desarrollado por: Alexis Año: 2025 Materia: Tecnología Web II
+## 🧑‍💻 **Créditos**
+Desarrollado por: [Alexis] Año: 2025 Materia: Tecnología Web II
