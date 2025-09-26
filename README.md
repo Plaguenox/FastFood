@@ -1,23 +1,23 @@
-#🍔 *FastFood Laravel*
-Sistema de gestión para restaurante de comida rápida, desarrollado con Laravel 12, Blade y Bootstrap 5. Este proyecto fue adaptado y migrado desde un sistema original en PHP puro, inspirado en un repositorio de hamburguesería encontrado en GitHub.
+# 🍔 **FastFood Laravel**
 
-🚀 Características principales
-📦 Catálogo visual de productos y extras
+**Sistema de gestión para restaurante de comida rápida**, desarrollado con **Laravel 12**, **Blade** y **Bootstrap 5**.  
+Este proyecto fue **adaptado y migrado desde un sistema original en PHP puro**, inspirado en un repositorio de hamburguesería encontrado en GitHub.
 
-🛒 Carrito de compras y gestión de pedidos
+---
 
-🧑‍💼 Panel de administración con CRUD completo (productos, extras, usuarios)
+## 🚀 **Características principales**
 
-🗃️ Migraciones y seeders para carga inicial de datos
+- 📦 **Catálogo visual** de productos y extras  
+- 🛒 **Carrito de compras** y gestión de pedidos  
+- 🧑‍💼 **Panel de administración** con CRUD completo (productos, extras, usuarios)  
+- 🗃️ **Migraciones y seeders** para carga inicial de datos  
+- 🖼️ **Gestión de imágenes** de productos (subida y visualización)  
+- ✅ **Validaciones** de formularios y mensajes de éxito/error  
+- 📱 **Diseño moderno y responsivo** para múltiples dispositivos  
 
-🖼️ Gestión de imágenes de productos (subida y visualización)
+---
 
-✅ Validaciones de formularios y mensajes de éxito/error
-
-📱 Diseño moderno y responsivo para múltiples dispositivos
-
-🧩 Estructura del proyecto
-plaintext
+## 🧩 **Estructura del proyecto**
 app/
 ├── Http/
 │   ├── Controllers/
@@ -36,7 +36,9 @@ database/
 
 public/images/                      → Imágenes precargadas
 storage/app/public/products/       → Imágenes subidas por el administrador
-⚙️ Instalación y ejecución
+
+## ⚙️ **Instalación y ejecución**
+
 Clona el repositorio:
 git clone https://github.com/usuario/fastfood-laravel.git
 
@@ -58,10 +60,12 @@ php artisan serve
 Accede a la aplicación: http://localhost:8000
 
 👥 Usuario demo
-Rol	Carnet	Email	Contraseña
-Admin	A0001	admin@fastfood.com	admin123
+Rol      Carnet		Contraseña
+Admin    A0001		admin123
+
 🧠 Justificación técnica
-Este proyecto fue migrado desde una base en PHP puro para aplicar buenas prácticas modernas con Laravel. Se eligió Laravel por su estructura MVC, facilidad de mantenimiento, y robustez en validaciones, seguridad y escalabilidad. Se utilizaron componentes como:
+Este proyecto fue migrado desde una base en PHP puro para aplicar buenas prácticas modernas con Laravel. 
+Se eligió Laravel por su estructura MVC, facilidad de mantenimiento, y robustez en validaciones, seguridad y escalabilidad. Se utilizaron componentes como:
 
 Blade para vistas dinámicas
 
