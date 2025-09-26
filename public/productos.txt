@@ -1,0 +1,31 @@
+
+$33.00 Papas Papas clásicas Papas fritas con sal
+$10.00 Papas con queso Papas con queso Papas fritas, queso cheddar fundido
+$14.00 Papas con carne Papas con carne Papas fritas, carne picada, queso, salsa especial
+$18.00 Papas rancheras Papas rancheras Papas fritas, salsa ranch, cebolla, queso
+$16.00 Papas picantes Papas picantes Papas fritas, salsa picante, queso, jalapeños
+$15.00 Bebidas Gaseosa cola Gaseosa cola Bebida carbonatada sabor cola
+$7.00 Gaseosa lima-limón Gaseosa lima-limón Bebida carbonatada sabor lima-limón
+$7.00 Jugo natural de naranja Jugo natural de naranja Jugo exprimido
+$10.00 Malteada de chocolate Malteada de chocolate Leche, helado de chocolate, crema
+$14.00 Malteada de frutilla Malteada de frutilla Leche, helado de frutilla, crema
+$14.00 Postres Brownie Brownie Brownie de chocolate
+$9.00 Helado mixto Helado mixto Helado de vainilla y chocolate
+$8.00 Tarta de queso Tarta de queso Base de galleta, crema de queso, mermelada
+$12.00 Galleta rellena Galleta rellena Galleta grande con relleno de chocolate
+$7.00 Sundae Sundae Helado, sirope, crema batida
+$10.00 Wraps Wrap de pollo Wrap de pollo Tortilla, pollo a la plancha, lechuga, tomate
+$20.00 Wrap vegetariano Wrap vegetariano Tortilla, espinaca, hummus, zanahoria rallada
+$19.00 Wrap BBQ Wrap BBQ Tortilla, carne de res, salsa BBQ, cebolla
+$22.00 Wrap picante Wrap picante Tortilla, pollo, salsa picante, lechuga
+$21.00 Wrap de atún Wrap de atún Tortilla, atún, mayonesa, lechuga
+$20.00 Hot Dogs Clásico Clásico Pan, salchicha, ketchup, mostaza
+$13.00 Americano Americano Pan, salchicha, queso cheddar, bacon
+$16.00 Picante Picante Pan, salchicha, salsa picante, cebolla
+$15.00 Mexicano Mexicano Pan, salchicha, guacamole, pico de gallo
+$17.00 Doble salchicha Doble salchicha Pan grande, 2 salchichas, queso, cebolla
+$18.00 Combos Combo clásico Combo clásico Hamburguesa clásica + papas + gaseosa
+$35.00 Combo doble Combo doble Hamburguesa doble + papas con queso + gaseosa
+$42.00 Combo pollo Combo pollo Wrap de pollo + papas rancheras + jugo natural
+$38.00 Combo kids Combo kids Mini hamburguesa + papas pequeñas + jugo
+$28.00 Combo vegetariano Combo vegetariano Wrap vegetariano + papas clásicas + gaseosa
