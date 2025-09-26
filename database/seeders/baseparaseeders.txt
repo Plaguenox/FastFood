@@ -1,0 +1,49 @@
+🍔 Hamburguesas
+Nombre	Ingredientes base	Extras sugeridos
+Clásica	Pan, carne de res, lechuga, tomate, mayonesa	Queso, cebolla, ketchup
+Doble carne	Pan, 2 carnes de res, queso cheddar, pepinillos	Bacon, salsa BBQ, jalapeños
+Pollo crispy	Pan, filete de pollo empanizado, lechuga, mayonesa	Queso suizo, mostaza, tomate
+Vegetariana	Pan, hamburguesa de lentejas, espinaca, tomate	Queso vegano, hummus, cebolla
+BBQ bacon	Pan, carne de res, queso cheddar, bacon, salsa BBQ	Cebolla caramelizada, jalapeños
+🍟 Papas
+Nombre	Ingredientes base	Extras sugeridos
+Papas clásicas	Papas fritas con sal	Ketchup, mayonesa
+Papas con queso	Papas fritas, queso cheddar fundido	Bacon, cebolla
+Papas con carne	Papas fritas, carne picada, queso, salsa especial	Jalapeños, cebolla caramelizada
+Papas rancheras	Papas fritas, salsa ranch, cebolla, queso	Pollo desmenuzado, BBQ
+Papas picantes	Papas fritas, salsa picante, queso, jalapeños	Cebolla morada, crema agria
+🥤 Bebidas
+Nombre	Ingredientes base	Extras sugeridos
+Gaseosa cola	Bebida carbonatada sabor cola	Hielo, limón
+Gaseosa lima-limón	Bebida carbonatada sabor lima-limón	Hielo, rodaja de limón
+Jugo natural de naranja	Jugo exprimido	Azúcar, hielo
+Malteada de chocolate	Leche, helado de chocolate, crema	Chips de chocolate, galleta Oreo
+Malteada de frutilla	Leche, helado de frutilla, crema	Frutilla fresca, sirope
+🍰 Postres
+Nombre	Ingredientes base	Extras sugeridos
+Brownie	Brownie de chocolate	Helado de vainilla, sirope
+Helado mixto	Helado de vainilla y chocolate	Frutilla, maní, sirope
+Tarta de queso	Base de galleta, crema de queso, mermelada	Frutas frescas, chocolate blanco
+Galleta rellena	Galleta grande con relleno de chocolate	Helado, chips de chocolate
+Sundae	Helado, sirope, crema batida	Cerezas, nueces, barquillo
+🌯 Wraps
+Nombre	Ingredientes base	Extras sugeridos
+Wrap de pollo	Tortilla, pollo a la plancha, lechuga, tomate	Queso, salsa tártara
+Wrap vegetariano	Tortilla, espinaca, hummus, zanahoria rallada	Queso vegano, palta
+Wrap BBQ	Tortilla, carne de res, salsa BBQ, cebolla	Jalapeños, queso cheddar
+Wrap picante	Tortilla, pollo, salsa picante, lechuga	Cebolla morada, crema agria
+Wrap de atún	Tortilla, atún, mayonesa, lechuga	Tomate, aceitunas
+🌭 Hot Dogs
+Nombre	Ingredientes base	Extras sugeridos
+Clásico	Pan, salchicha, ketchup, mostaza	Mayonesa, cebolla
+Americano	Pan, salchicha, queso cheddar, bacon	Salsa BBQ, jalapeños
+Picante	Pan, salchicha, salsa picante, cebolla	Queso, crema agria
+Mexicano	Pan, salchicha, guacamole, pico de gallo	Jalapeños, queso fresco
+Doble salchicha	Pan grande, 2 salchichas, queso, cebolla	Salsa tártara, tomate
+🧃 Combos sugeridos
+Nombre	Contenido base	Extras sugeridos
+Combo clásico	Hamburguesa clásica + papas + gaseosa	Postre pequeño
+Combo doble	Hamburguesa doble + papas con queso + gaseosa	Malteada en vez de gaseosa
+Combo pollo	Wrap de pollo + papas rancheras + jugo natural	Brownie
+Combo kids	Mini hamburguesa + papas pequeñas + jugo	Galleta rellena
+Combo vegetariano	Wrap vegetariano + papas clásicas + gaseosa	Sundae vegano
