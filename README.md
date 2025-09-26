@@ -1,4 +1,4 @@
-🍔 FastFood Laravel
+# 🍔 **FastFood Laravel**
 Sistema de gestión para restaurante de comida rápida, desarrollado con Laravel 12, Blade y Bootstrap 5. Este proyecto fue adaptado y migrado desde un sistema original en PHP puro, inspirado en un repositorio de hamburguesería encontrado en GitHub.
 
 🚀 Características principales
